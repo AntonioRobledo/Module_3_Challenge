@@ -12,3 +12,6 @@ If the user enters a length between these two numbers, then a series of followin
 
  ![screenshot](assets/images/Password-Generator-img-2.png)
 
+## Deployment Link
+
+https://antoniorobledo.github.io/Password-Generator-/
