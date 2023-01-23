@@ -11,3 +11,4 @@
 If the user enters a length between these two numbers, then a series of following questions will appear such as the choice to include lowercase letters. Depending on which criteria the user picks, these inputs are then generated into a randomized password that reflects the chosen criteria as well as meeting the character length that was first chosen by the user.
 
  ![screenshot](assets/images/Password-Generator-img-2.png)
+
